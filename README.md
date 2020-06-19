@@ -25,8 +25,8 @@ This example shows how to add feature flags easily to my todolist app with react
 To install this example application, run the following commands:
 
 ```sh
-git clone https://github.com/talianassi921/todolist.git 
-cd todolist 
+git clone https://github.com/splitio-examples/react-set-up-feature-flags.git 
+cd react-set-up-feature-flags
 npm install 
 ```
 
